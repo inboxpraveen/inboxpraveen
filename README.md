@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with **contributing open-source projects in AI**
 
-- 👨‍💻 All of my projects are available at [https://inboxpraveen.github.io/projects/](https://inboxpraveen.github.io/projects/)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/inboxpraveen?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@inboxpraveen](https://medium.com/@inboxpraveen)
 
 - 💬 Ask me about **NLP, Speech Recognition, Computer Vision, Kaggle & Data Science**
 
-- 📫 How to reach me **inbox.praveen.kumar17@gmail.com**
+- 📫 How to reach me **inboxpraveen.17@gmail.com**
 
 - 📄 Know about my experiences [https://inboxpraveen.github.io](https://inboxpraveen.github.io)
 
