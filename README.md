@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2339/2339864.png" height="100" /></a> I'm Praveen Kumar</h1>
+<h1 align="center">Hi! <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2339/2339864.png" height="25" /></a> I'm Praveen Kumar</h1>
 <h3 align="center">AI Engineer: Building ML Pipelines like a Pro, One Algorithm at a Time!</h3>
 
 <p align="left"><a href="https://twitter.com/inboxpraveen" target="blank"><img src="https://img.shields.io/twitter/follow/inboxpraveen?logo=twitter&style=for-the-badge" alt="inboxpraveen" /></a></p>
