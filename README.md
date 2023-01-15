@@ -39,3 +39,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inboxpraveen&show_icons=true&locale=en&layout=compact" alt="inboxpraveen" /></p>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inboxpraveen)](https://github.com/inboxpraveen/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=inboxpraveen)](https://git.io/streak-stats)
