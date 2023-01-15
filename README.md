@@ -4,6 +4,8 @@
 
 <p align="left"><a href="https://twitter.com/inboxpraveen" target="blank"><img src="https://img.shields.io/twitter/follow/inboxpraveen?logo=twitter&style=for-the-badge" alt="inboxpraveen" /></a></p>
 
+![](https://komarev.com/ghpvc/?username=inboxpraveen)
+
 - I’m currently working on **NLP & Speech Recognition**
 
 - I’m looking for help with **contributing open-source projects in AI**
