@@ -1,37 +1,35 @@
-<h1 align="center"> Hi! <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2339/2339864.png" height="40" width="40" /></a> I'm Praveen Kumar</h1>
- 
-<h3 align="center">AI Engineer: Building ML Pipelines like a Pro, One Algorithm at a Time!</h3>
+# Hello, world! 👋 I'm Praveen Kumar (PK)
 
-<p align="left"><a href="https://twitter.com/inboxpraveen" target="blank"><img src="https://img.shields.io/twitter/follow/inboxpraveen?logo=twitter&style=for-the-badge" alt="inboxpraveen" /></a></p>
+🛠 **AI Architect** | 🎤 **Educator** | ✍️ **Tech Blogger**
 
-![](https://komarev.com/ghpvc/?username=inboxpraveen)
+I'm based in the heart of innovation, **Silicon Valley**. Building scalable AI products, diving deep into natural language processing, speech recognition, and computer vision, and sharing my knowledge with the world is what I live for. Let's make the tech community stronger, together!
 
-- I’m currently working on **NLP & Speech Recognition**
+## :new: What's New Here?
 
-- I’m looking for help with **contributing open-source projects in AI**
+I am recently working on LLM powered local hosted applications such as chatbots, PDF Parsers, Search engines, and Lang Chain. :bird: 
 
-- All of my projects are available at [Projects](https://github.com/inboxpraveen?tab=repositories)
+## 🌐 Connect with me:
+- :man: [Portfolio](https://inboxpraveen.github.io)
+- 🐦 [Twitter](https://twitter.com/inboxpraveen)
+- 📝 [LinkedIn](https://linkedin.com/in/inbox-praveen-kumar)
+- 🎥 [YouTube](https://www.youtube.com/channel/UC56_sImklFKoilc1IpLUfNg)
+- 📰 [Technical Blog](https://inboxpraveen.github.io/blogs/)
+- :writing_hand: [Medium Blogs](https://medium.com/@inboxpraveen)
 
-- I regularly write articles on [https://medium.com/@inboxpraveen](https://medium.com/@inboxpraveen)
+## 🚀 What I Do:
+- 🔍 **Natural Language Processing:** Unlocking the power of text.
+- 🗣 **Speech Recognition:** Making machines understand us better.
+- 👁 **Computer Vision:** Giving sight to computers.
+- 🐍 **Python Enthusiast:** Writing efficient and optimized production codes.
 
-- Ask me about **NLP, Speech Recognition, Computer Vision, Kaggle & Data Science**
+## 🛠 Recent Projects:
+1. **Context Vector Search Engine** - A brief description of the project. [🔗 Repository](GITHUB_REPO_LINK)
+2. **Speech Recognition Tool** - A brief description of the project. [🔗 Repository](GITHUB_REPO_LINK)
+... [Check more here](https://github.com/inboxpraveen?tab=repositories)
 
-- How to reach me **inboxpraveen.17@gmail.com**
+## 📊 This week's stats:
+![PK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inboxpraveen&count_private=true&show_icons=true&theme=radical)
 
-- Know about my experiences [https://inboxpraveen.github.io](https://inboxpraveen.github.io)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/inboxpraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inboxpraveen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/inbox-praveen-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inbox-praveen-kumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11309234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11309234" height="30" width="40" /></a>
-<a href="https://kaggle.com/inboxpraveen17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="inboxpraveen17" height="30" width="40" /></a>
-<a href="https://instagram.com/_inside_ai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_inside_ai_" height="30" width="40" /></a>
-<a href="https://medium.com/@inboxpraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@inboxpraveen" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=inboxpraveen)](https://git.io/streak-stats)
+⭐ Remember, the world is better when we share knowledge. Let's connect and inspire others!
