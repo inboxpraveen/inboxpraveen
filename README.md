@@ -12,7 +12,7 @@ I am recently working on LLM powered local hosted applications such as chatbots,
 - :man: [Portfolio](https://inboxpraveen.github.io)
 - 🐦 [Twitter](https://twitter.com/inboxpraveen)
 - 📝 [LinkedIn](https://linkedin.com/in/praveen-kumar-inbox)
-- 🎥 [YouTube](https://www.youtube.com/channel/UC56_sImklFKoilc1IpLUfNg)
+- 🎥 [YouTube](https://www.youtube.com/@ai_for_bharat)
 - 📰 [Technical Blog](https://inboxpraveen.github.io/blogs/)
 - :writing_hand: [Medium Blogs](https://medium.com/@inboxpraveen)
 
