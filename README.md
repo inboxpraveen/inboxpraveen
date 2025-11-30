@@ -10,10 +10,9 @@ I am recently working on LLM powered local hosted applications such as chatbots,
 
 ## 🌐 Connect with me:
 - :man: [Portfolio](https://inboxpraveen.github.io)
-- 🐦 [Twitter](https://twitter.com/inboxpraveen)
+- 🐦 [Twitter / X](https://x.com/inboxpraveen)
 - 📝 [LinkedIn](https://linkedin.com/in/praveen-kumar-inbox)
-- 🎥 [YouTube](https://www.youtube.com/@ai_for_bharat)
-- :writing_hand: [Medium Blogs](https://medium.com/@inboxpraveen)
+- 🎥 [YouTube](https://www.youtube.com/@practical_developer)
 
 ## 🚀 What I Do:
 - 🔍 **Natural Language Processing:** Unlocking the power of text.
