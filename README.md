@@ -1,8 +1,8 @@
 # Hello, world! 👋 I'm Praveen Kumar (PK)
 
-🛠 **Senior AI Architect** | 🎤 **Educator** | ✍️ **Tech Blogger**
+🛠 **Principal AI Engineer & Solution Architect**
 
-I'm based in the heart of innovation, **Silicon Valley of India - Bengaluru**. Building scalable AI products, diving deep into natural language processing, speech recognition, and computer vision, and sharing my knowledge with the world is what I live for. Let's make the tech community stronger, together!
+I'm based in the heart of innovation, **Silicon Valley of India - Bengaluru**. I’m a Principal AI Engineer who loves building practical, scalable AI systems that solve real problems. I work across speech AI, LLMs, RAG, and document intelligence, and I enjoy turning complex ideas into clean, production-ready solutions. Whether it’s voice tech, smart search, or AI-powered automation, I’m always exploring, learning, and building things that push the boundaries of what’s possible.
 
 ## :new: What's New I am working on?
 
@@ -18,7 +18,7 @@ I am recently working on LLM powered local hosted applications such as chatbots,
 - 🔍 **Natural Language Processing:** Unlocking the power of text.
 - 🗣 **Speech Recognition:** Making machines understand us better.
 - 👁 **Computer Vision:** Giving sight to computers.
-- 🐍 **Python Enthusiast:** Writing efficient and optimized production codes.
+- 🐍 **Python Enthusiast:** Writing efficient and optimized production code.
 
 ## 🛠 Recent Projects:
 1. **Context Vector Search Engine** - A simple :desktop_computer: interface where users can search :mag: for contextually relevant text passages in documents. It employs BERT model for semantic embeddings and FAISS for efficient similarity search. When users enter a query, the system returns the most contextually relevant text passage from the corpus and highlights the matched keywords.🚀 [🔗 Repository](https://github.com/inboxpraveen/context-search-engine)
