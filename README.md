@@ -2,7 +2,7 @@
 
 🛠 **Principal AI Engineer & Solution Architect**
 
-I'm Praveen Kumar, a Principal AI Engineer & Solution Architect based in Bengaluru. I design and build end-to-end AI products—from speech AI and OCR to LLM-powered systems—that work reliably in real-world settings. I enjoy turning complex ideas into practical, production-ready solutions, and I share what I learn through open source and blogs. When I'm not coding, I mentor teams and focus on making AI infrastructure fast, modular, and aligned with real business goals.
+I'm Praveen Kumar, a Principal AI Engineer and Solution Architect based in Bengaluru. I design and build end-to-end AI products, like speech AI, OCR, and LLM-powered systems, that work reliably in the real world. I enjoy turning complex ideas into practical, production-ready solutions and sharing what I learn through open source and blogs. When I'm not coding, I mentor teams and focus on making AI infrastructure fast, modular, and aligned with business goals.
 
 
 ## 🌐 Connect with me:
@@ -25,16 +25,16 @@ I'm Praveen Kumar, a Principal AI Engineer & Solution Architect based in Bengalu
 
 ## 🛠 Recent Projects:
 
-1. **Context Search Engine** – An AI-powered semantic document search platform for learning, experimentation, and real-world prototyping. Covers the full lifecycle of modern vector-based search: document ingestion, chunking, embedding, indexing, and contextual query matching. 🚀 [🔗 Repository](https://github.com/inboxpraveen/context-search-engine)
+1. **Context Search Engine**: An AI-powered semantic document search platform for learning, experimentation, and real-world prototyping. It covers the full lifecycle of modern vector-based search, including document ingestion, chunking, embedding, indexing, and contextual query matching. 🚀 [🔗 Repository](https://github.com/inboxpraveen/context-search-engine)
 
 
-2. **Speech Annotation Tool** – 🎙️📝 A user-friendly web app for reviewing and correcting ASR (Automatic Speech Recognition) transcriptions. Designed for teams and researchers working to improve speech-to-text accuracy. 🚀 [🔗 Repository](https://github.com/inboxpraveen/Speech-Annotation-Tool)
+2. **Speech Annotation Tool**: 🎙️📝 A user-friendly web app for reviewing and correcting ASR (Automatic Speech Recognition) transcriptions. It's designed for teams and researchers working to improve speech-to-text accuracy. 🚀 [🔗 Repository](https://github.com/inboxpraveen/Speech-Annotation-Tool)
 
 
-3. **Minutes of Meeting** – 🎤📄 Converts audio or video files into transcripts and concise meeting minutes. Helps teams stay organized. Phase 2 will enable real-time transcription and open contributions. 🚀 [🔗 Repository](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting)
+3. **Minutes of Meeting**: 🎤📄 Converts audio or video files into transcripts and concise meeting minutes to help teams stay organized. Phase 2 will enable real-time transcription and open contributions. 🚀 [🔗 Repository](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting)
 
 
-4. **Movie Recommendation System** – 🎬🤖 A production-ready, AI-driven movie recommendation platform using Django and advanced ML. Provides intelligent suggestions using content-based filtering, TF-IDF, and SVD. Features a modern web UI and RESTful API, and handles datasets from thousands to millions of movies. End-to-end pipeline and scalable deployment included. 🚀 [🔗 Repository](https://github.com/inboxpraveen/Movie-Recommendation-System)
+4. **Movie Recommendation System**: 🎬🤖 A production-ready, AI-driven movie recommendation platform using Django and advanced ML. It provides intelligent suggestions using content-based filtering, TF-IDF, and SVD. It features a modern web UI and RESTful API, and handles datasets from thousands to millions of movies. End-to-end pipeline and scalable deployment included. 🚀 [🔗 Repository](https://github.com/inboxpraveen/Movie-Recommendation-System)
 
 
 5. ... [Check more here](https://github.com/inboxpraveen?tab=repositories)
@@ -45,4 +45,4 @@ I'm Praveen Kumar, a Principal AI Engineer & Solution Architect based in Bengalu
 
 ---
 
-⭐ Remember, the world is better when we share knowledge. Let's connect and inspire others!
+⭐ I believe the world is better when we share knowledge. Let's connect and inspire each other!
