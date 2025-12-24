@@ -2,11 +2,8 @@
 
 🛠 **Principal AI Engineer & Solution Architect**
 
-I'm based in the heart of innovation, **Silicon Valley of India - Bengaluru**. I’m a Principal AI Engineer who loves building practical, scalable AI systems that solve real problems. I work across speech AI, LLMs, RAG, and document intelligence, and I enjoy turning complex ideas into clean, production-ready solutions. Whether it’s voice tech, smart search, or AI-powered automation, I’m always exploring, learning, and building things that push the boundaries of what’s possible.
+I'm Praveen Kumar, a Principal AI Engineer & Solution Architect based in Bengaluru. I design and build end-to-end AI products—from speech AI and OCR to LLM-powered systems—that work reliably in real-world settings. I enjoy turning complex ideas into practical, production-ready solutions, and I share what I learn through open source and blogs. When I'm not coding, I mentor teams and focus on making AI infrastructure fast, modular, and aligned with real business goals.
 
-## :new: What's New I am working on?
-
-I am recently working on LLM powered local hosted applications such as chatbots, PDF Parsers, Search engines, and Lang Chain. :bird: 
 
 ## 🌐 Connect with me:
 - :man: [Portfolio](https://inboxpraveen.github.io)
@@ -14,29 +11,37 @@ I am recently working on LLM powered local hosted applications such as chatbots,
 - 📝 [LinkedIn](https://linkedin.com/in/praveen-kumar-inbox)
 - 🎥 [YouTube](https://www.youtube.com/@practical_developer)
 
+
 ## 🚀 What I Do:
 - 🔍 **Natural Language Processing:** Unlocking the power of text.
 - 🗣 **Speech Recognition:** Making machines understand us better.
 - 👁 **Computer Vision:** Giving sight to computers.
 - 🐍 **Python Enthusiast:** Writing efficient and optimized production code.
+- ☁️ **Cloud (AWS/Azure):** Architecting and scaling solutions on leading cloud platforms.
+- 🏗️ **System Design:** Building robust, scalable, and maintainable system architectures.
+- 🧩 **Solution Architecture:** Designing end-to-end technology solutions tailored to business needs.
+
+---
 
 ## 🛠 Recent Projects:
-1. **Context Vector Search Engine** - A simple :desktop_computer: interface where users can search :mag: for contextually relevant text passages in documents. It employs BERT model for semantic embeddings and FAISS for efficient similarity search. When users enter a query, the system returns the most contextually relevant text passage from the corpus and highlights the matched keywords.🚀 [🔗 Repository](https://github.com/inboxpraveen/context-search-engine)
 
-   
+1. **Context Search Engine** – An AI-powered semantic document search platform for learning, experimentation, and real-world prototyping. Covers the full lifecycle of modern vector-based search: document ingestion, chunking, embedding, indexing, and contextual query matching. 🚀 [🔗 Repository](https://github.com/inboxpraveen/context-search-engine)
 
-2. **Speech Recognition & Correction Tool** - 🎙️📝 A powerful Flask-based web application that leverages the latest Hugging Face ASR models to provide real-time speech-to-text (STT) transcripts with an intuitive user interface for easy correction. Perfect for enhancing the quality of training datasets for ASR models. 🚀. [🔗 Repository](https://github.com/inboxpraveen/ASR-Accuracy-Tool)
 
-   
+2. **Speech Annotation Tool** – 🎙️📝 A user-friendly web app for reviewing and correcting ASR (Automatic Speech Recognition) transcriptions. Designed for teams and researchers working to improve speech-to-text accuracy. 🚀 [🔗 Repository](https://github.com/inboxpraveen/Speech-Annotation-Tool)
 
-3. **Minutes of Meeting** - .🎤📄 An innovative tool that transforms audio or video files into text transcripts and generates concise meeting minutes. Stay organized and efficient in your meetings, and get ready for Phase 2 where we'll be open for contributions to enable real-time meeting transcription! 🚀[:link: Repository](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting)
 
-   
+3. **Minutes of Meeting** – 🎤📄 Converts audio or video files into transcripts and concise meeting minutes. Helps teams stay organized. Phase 2 will enable real-time transcription and open contributions. 🚀 [🔗 Repository](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting)
 
-4. ... [Check more here](https://github.com/inboxpraveen?tab=repositories)
 
-## 📊 This week's stats:
-![PK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inboxpraveen&count_private=true&show_icons=true&theme=radical)
+4. **Movie Recommendation System** – 🎬🤖 A production-ready, AI-driven movie recommendation platform using Django and advanced ML. Provides intelligent suggestions using content-based filtering, TF-IDF, and SVD. Features a modern web UI and RESTful API, and handles datasets from thousands to millions of movies. End-to-end pipeline and scalable deployment included. 🚀 [🔗 Repository](https://github.com/inboxpraveen/Movie-Recommendation-System)
+
+
+5. ... [Check more here](https://github.com/inboxpraveen?tab=repositories)
+
+
+## 📊 Top Contributions:
+![](https://github-contributor-stats.vercel.app/api?username=inboxpraveen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
