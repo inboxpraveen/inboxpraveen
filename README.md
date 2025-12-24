@@ -12,9 +12,6 @@ I'm Praveen Kumar, a Principal AI Engineer and Solution Architect based in Benga
 - 🎥 [YouTube](https://www.youtube.com/@practical_developer)
 
 
-<iframe src="https://github.com/sponsors/inboxpraveen/button" title="Sponsor inboxpraveen" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
-
 ## 🚀 What I Do:
 - 🔍 **Natural Language Processing:** Unlocking the power of text.
 - 🗣 **Speech Recognition:** Making machines understand us better.
