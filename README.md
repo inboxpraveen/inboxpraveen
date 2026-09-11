@@ -24,7 +24,7 @@ I'm Praveen Kumar, a Principal AI Engineer and Solution Architect based in Benga
 ---
 
 ## 📊 Github Profile:
-<img width="1873" height="934" alt="Screenshot 2026-05-22 233342" src="https://github.com/user-attachments/assets/92e65766-f6f7-4187-8b32-70c8e26a5a82" />
+<img width="1216" height="777" alt="Screenshot 2026-09-06 204407" src="https://github.com/user-attachments/assets/b7c2f2b1-8053-451a-baab-9bea824a8531" />
 
 
 ---
